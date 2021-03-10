@@ -10,7 +10,7 @@ On this blog I will gradually introduce my data-centric perspective on enterpris
 The focus is on enterprise data and knowledge graphs from all angles and on all levels.
 Starting with strategic perspectives of aligning business goals with IT, over IT management and policy topics down to tactical and technical options of implementation and governance.
 
-I have been working in this field for a long time both from a management and an engineering perspective and now needed a place to write down my insights and ideas.
+I have been working in this field for a long time both from a management (large enterprise) and a consulting perspective and now needed a place to write down my insights and ideas.
 Over the years I have seen many organizations and got deeply convinced that the current way IT is organized,
 the current state of the art of building system landscapes and handling data does not work well.
 Over the last 10 years I took a deep dive in semantic modeling & technologies and figured out how those fit in.
