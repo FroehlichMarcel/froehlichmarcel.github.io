@@ -39,7 +39,7 @@ footer:
 github: [metadata]
 theme: minima
 #theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
