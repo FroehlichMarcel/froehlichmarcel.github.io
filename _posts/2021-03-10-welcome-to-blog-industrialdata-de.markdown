@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Welcome to blog.industrialdata.de"
+title:  "Welcome to my blog industrialdata.de"
 date:   2021-03-10 14:09:16 +0100
 categories:  overview
 ---
