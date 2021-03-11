@@ -3,15 +3,13 @@ layout: single
 title: About
 permalink: /about/
 ---
-{{ site.description }}
-<br/><br/>
-Marcel is Director Services at eccenca and involved in the Enterprise Knowledge Graph Foundation.
-<br/><br/>
+<br/>
 <b>IMPRESSUM</b> <br/>
 Verantwortlicher im Sinne des Presserechts:<br/><br/>
 Marcel Fröhlich <br/>
 Uhlandstr. 9/1 <br/>
-D-71364 Winnenden <br/> <br/>
+D-71364 Winnenden <br/> 
+Germany<br/><br/>
 marcel.frohlich at icloud.com <br/><br/>
 
 <b>Haftungsausschluss</b><br/><br/>
