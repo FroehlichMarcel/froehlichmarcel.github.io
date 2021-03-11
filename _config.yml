@@ -34,6 +34,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/FroehlichMarcel"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/marcel-fr%C3%B6hlich-648a043/"
 
 # Build settings
 github: [metadata]
