@@ -22,7 +22,7 @@ title: IndustrialData.de Blog
 email: marcel.frohlich@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   The IndustrialData.de blog is focused on enterprise data management and enterprise knowledge graphs.<br/>
-  Marcel is outlining why and how to create a virtually unified data infrastructure. Made in Germany.
+  Marcel is outlining why and how to create a virtually unified data infrastructure. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FroehlichMarcel
