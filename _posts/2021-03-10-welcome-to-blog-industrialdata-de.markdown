@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Starting blog.IndustrialData.de"
+title:  "Marcel Fröhlich is starting blog.IndustrialData.de"
 date:   2021-03-10 14:09:16 +0100
 categories:  overview
 ---
