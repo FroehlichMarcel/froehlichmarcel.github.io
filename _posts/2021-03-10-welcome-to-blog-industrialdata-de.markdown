@@ -10,7 +10,7 @@ categories:  overview
 ---
 
 Welcome!
-On this blog I will gradually introduce my data-centric perspective on enterprise information systems.
+On this blog I will gradually introduce my data-centric perspective on enterprise information (eco)systems.
 The focus is on enterprise data and knowledge graphs from all angles and on all levels.
 Starting with strategic perspectives of aligning business goals with IT, over IT management and policy topics down to tactical and technical options of implementation and governance.
 
