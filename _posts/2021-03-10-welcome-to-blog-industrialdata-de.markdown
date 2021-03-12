@@ -1,6 +1,10 @@
 ---
 layout: single
 title:  "Marcel Fröhlich is launching blog.IndustrialData.de"
+header:
+  overlay_image: assets/images/QR_Code_-_Castel_Gandolfo_-_DSC04245.jpg
+  #overlay_filter: 0.5 # Same as adding an opacity of 0.5 to a black background
+  overlay_filter: rgba(20, 55, 60, 0.5)
 date:   2021-03-10 14:09:16 +0100
 categories:  overview
 ---
