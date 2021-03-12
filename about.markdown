@@ -46,9 +46,9 @@ ______________________________
 <h1 id="datenschutz">DATENSCHUTZERKLÄRUNG</h1> 
 
 <h2>Allgemeiner Hinweis</h2>
-Ich, Marcel Fröhlich, nimmt den Schutz persönlicher Daten sehr ernst und behandle personenbezogene Daten vertraulich entsprechend der gesetzlichen Vorschriften und dieser Datenschutzerklärung.
+Ich, Marcel Fröhlich, nehme den Schutz persönlicher Daten sehr ernst und behandle personenbezogene Daten vertraulich entsprechend der gesetzlichen Vorschriften und dieser Datenschutzerklärung.
 
-Dieser private Blog verfolgt keine geschäftlichen Interessen.
+Dieses private Blog verfolgt keine geschäftlichen Interessen.
 Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten, ohne Verwendung von Cookies genutzt (siehe Datenerhebung durch Dritte).
 Im Rahmen dieses Blog werden von mir keine personenbezogene Daten erhoben oder gespeichert. 
 Die HTTP(S) Anfragen werden via Cloudflare CDN siehe SSL- bzw. TLS-Verschlüsselung) von froehlichmarcel.github.io verarbeitet.
