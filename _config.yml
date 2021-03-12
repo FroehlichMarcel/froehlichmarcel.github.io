@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The ⇄IndustrialData.de blog is focused on enterprise data management (EDM) 
   and enterprise knowledge graphs (EKG). Marcel is outlining why and how to 
   create and govern an aligned data infrastructure, in order to shed complexity 
-  and maintain consistency between the fast moving business and IT. 
+  and maintain consistency between a fast moving business and its IT. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FroehlichMarcel
