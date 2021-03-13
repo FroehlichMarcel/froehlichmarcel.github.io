@@ -82,7 +82,7 @@ Königstraße 10 a<br/>
 <h2>SSL- bzw. TLS-Verschlüsselung</h2>
 Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung via Cloudflare. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der "https://" Adresszeile Ihres Browsers.<br/>
 
-Cloudfleare, Inc (101 Townsend St, San Francisco, CA 94107, USA) <a href="https://www.cloudflare.com/de-de/gdpr/introduction/?utm_referrer=https://www.cloudflare.com/">verpflichtet sich selbst zur Einhaltung der DSGVO</a>.
+Cloudflare, Inc (101 Townsend St, San Francisco, CA 94107, USA) <a href="https://www.cloudflare.com/de-de/gdpr/introduction/?utm_referrer=https://www.cloudflare.com/">verpflichtet sich selbst zur Einhaltung der DSGVO</a>.
 
 <h2>Kontaktaufnahme</h2>
 Bei der Kontaktaufnahme (zum Beispiel per E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
