@@ -49,10 +49,13 @@ ______________________________
 Ich, Marcel Fröhlich, nehme den Schutz persönlicher Daten sehr ernst und behandle personenbezogene Daten vertraulich entsprechend der gesetzlichen Vorschriften und dieser Datenschutzerklärung.
 
 Dieses private Blog verfolgt keine geschäftlichen Interessen.
-Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten, ohne Verwendung von Cookies genutzt (siehe Datenerhebung durch Dritte).
+Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten, OHNE Verwendung von Cookies genutzt (siehe Datenerhebung durch Dritte).
 Im Rahmen dieses Blog werden von mir keine personenbezogene Daten erhoben oder gespeichert. 
 Die HTTP(S) Anfragen werden via Cloudflare CDN siehe SSL- bzw. TLS-Verschlüsselung) von froehlichmarcel.github.io verarbeitet.
 
+Durch die Nutzung von GitHub Pages ergibt sich ergibt sich effektiv eine Auftragsdatenverarbeitung auf Basis der <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">GitHub Terms of Service</a> und des <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
+Es erfolgt eine Verarbeitung von personenbezogenen technischen Daten (IP-Adresse) zum Zweck der sicheren und unveränderten Bereitstellung der Website blog.industrialdata.de.
+Die Rechtsgrundlage dieser Verarbeitung entsprechend DSGVO ist mein berechtigtes Interesse diese statischen Inhalte über einen Webserver grundsätzlich bereitzustellen.
 
 <h2>Benennung der verantwortlichen Stelle</h2>
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
@@ -63,13 +66,7 @@ D-71364 Winnenden <br/>
 Germany<br/><br/>
 marcel.frohlich at icloud.com <br/>
 
-<h2>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h2>
-Sollte industrialdata.de künftig personenbezogene Daten verarbeiten, würde dies nur mit Ihrer ausdrücklichen Einwilligung geschehen. Ein Widerruf Ihrer dann erteilten Einwilligung wäre jederzeit möglich. Für den Widerruf genügte eine formlose Mitteilung per E-Mail (siehe Kontaktdaten, oben). Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bliebe vom Widerruf unberührt.
 <br/>
-<h2>Recht auf Auskunft, Berichtigung, Sperrung, Löschung</h2>
-Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Diesbezüglich und auch zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an Marcel Fröhlich wenden (siehe Kontaktdaten oben).
-<h2>Recht auf Datenübertragbarkeit</h2>
-Ihnen steht das Recht zu, Daten, die auf Grundlage Ihrer Einwilligung, Brechtigten Interesses oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Bereitstellung erfolgt in einem maschinenlesbaren Format. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
 <h2>Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde</h2>
 Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesbeauftragter für den Datenschutz und die Informationsfreiheit in Baden-Württemberg:
 <br/><br/>
@@ -88,8 +85,6 @@ Cloudflare, Inc (101 Townsend St, San Francisco, CA 94107, USA) <a href="https:/
 Bei der Kontaktaufnahme (zum Beispiel per E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
 <br/>
 Eine weitergehende Übermittlung der Daten findet nicht statt bzw. nur dann, wenn Sie dieser ausdrücklich zugestimmt haben.
-<br/>
-Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
 <br/>
 <h2>Daten-Erhebung durch Dritte</h2>
 Daten-Erhebung durch die Nutzung von GitHub Pages
