@@ -7,7 +7,6 @@ header:
   overlay_filter: rgba(20, 55, 60, 0.5)
 date:   2021-03-10 14:09:16 +0100
 tag:  blog
-
 ---
 
 Welcome!
