@@ -22,7 +22,8 @@ title: ⇄IndustrialData.de Blog
 email: marcel.frohlich@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   The ⇄IndustrialData.de blog is focused on enterprise data management (EDM) 
-  and enterprise knowledge graphs (EKG). Marcel is outlining why and how to 
+  and enterprise knowledge graphs (EKG). <br/>
+  Marcel is outlining why and how to 
   create and govern an aligned data infrastructure, in order to shed complexity 
   and maintain consistency between a fast moving business and its IT. 
 baseurl: "" # the subpath of your site, e.g. /blog
