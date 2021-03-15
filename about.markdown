@@ -50,14 +50,18 @@ Ich, Marcel Fröhlich, nehme den Schutz persönlicher Daten sehr ernst und behan
 
 Dieses private Blog verfolgt keine geschäftlichen Interessen.
 Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten.
+
+Durch die Nutzung des Dienstens GitHub Pages ergibt sich ergibt sich effektiv eine Auftragsdatenverarbeitung auf Basis der <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">GitHub Terms of Service</a> und des <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
+
+Durch die Nutzung des Cloudflare Dienstes (DNS, SSL-Verschlüsselung, Content Delivery Network, Abwehr von DDoS-Angriffen) ergibt sich effektiv eine Auftragsdatenverarbeitung auf Basis des <a href="https://www.cloudflare.com/de-de/terms/">Cloudlare Self-Service Subscription Agreement</a> und der inkludierten, mitgeltenden Dokumente.
+
+Es erfolgt eine Verarbeitung von personenbezogenen technischen Daten (IP-Adresse) zum Zweck der sicheren und unveränderten Bereitstellung der Website blog.industrialdata.de (siehe Datenerhebung durch Dritte).
+Die Rechtsgrundlage dieser Verarbeitungen entsprechend DSGVO ist mein berechtigtes Interesse diese statischen Inhalte über einen sicheren (verschlüsselte Verbindung) Webserver grundsätzlich bereitzustellen.
+
 Im Rahmen dieses Blog werden von mir keine personenbezogene Daten erhoben oder gespeichert. 
 Die HTTP(S) Anfragen werden via Cloudflare CDN (siehe SSL- bzw. TLS-Verschlüsselung) von froehlichmarcel.github.io verarbeitet.
 Cloudlare setzt im Rahmen der Verschlüsselung ein funktionales 3rd-Party Cookie (__cfduid) mit einer Ablaufzeit von 30 Tagen. Das Cookie enthält keine Daten,
 Zweck des Cookies ist die Erkennung maliziöser Besucher, d.h. ein Hilfsmittel zur Absicherung.
-
-Durch die Nutzung von GitHub Pages ergibt sich ergibt sich effektiv eine Auftragsdatenverarbeitung auf Basis der <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">GitHub Terms of Service</a> und des <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
-Es erfolgt eine Verarbeitung von personenbezogenen technischen Daten (IP-Adresse) zum Zweck der sicheren und unveränderten Bereitstellung der Website blog.industrialdata.de (siehe Datenerhebung durch Dritte).
-Die Rechtsgrundlage dieser Verarbeitung entsprechend DSGVO ist mein berechtigtes Interesse diese statischen Inhalte über einen Webserver grundsätzlich bereitzustellen.
 
 <h2>Benennung der verantwortlichen Stelle</h2>
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
@@ -81,17 +85,21 @@ Königstraße 10 a<br/>
 <h2>SSL- bzw. TLS-Verschlüsselung</h2>
 Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung via Cloudflare. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der "https://" Adresszeile Ihres Browsers.<br/>
 
-Cloudflare, Inc (101 Townsend St, San Francisco, CA 94107, USA) <a href="https://www.cloudflare.com/de-de/gdpr/introduction/?utm_referrer=https://www.cloudflare.com/">verpflichtet sich selbst zur Einhaltung der DSGVO</a>.
-
 <h2>Kontaktaufnahme</h2>
 Bei der Kontaktaufnahme (zum Beispiel per E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
 <br/>
 Eine weitergehende Übermittlung der Daten findet nicht statt bzw. nur dann, wenn Sie dieser ausdrücklich zugestimmt haben.
 <br/>
 <h2>Daten-Erhebung durch Dritte</h2>
-Daten-Erhebung durch die Nutzung von GitHub Pages
-Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. Beachten Sie daher auch die <a href="https://docs.github.com/en/github/site-policy/global-privacy-practices">GitHub Global Privacy Practices.</a> GitHub ist ein Unternehmen der Microsoft Corporation.
+<h3>Daten-Erhebung durch die Nutzung von GitHub Pages</h3>
+Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, California 94107, USA gehostet. Beachten Sie daher auch die <a href="https://docs.github.com/en/github/site-policy/global-privacy-practices">GitHub Global Privacy Practices.</a> GitHub ist ein Unternehmen der Microsoft Corporation.
 <br/>
 Github verfügt über eine Zertifizierung nach dem EU-US-Privacy-Shield. Der Privacy-Shield ist ein Übereinkommen zwischen der Europäischen Union (EU) und den USA, das die Einhaltung europäischer Datenschutzstandards in den USA gewährleisten soll. Siehe dazu die Privacy Shield Compliance Erklärung von Github (erreichbar über den Github Global Privacy Practices Link).
+
+<h3>Daten-Erhebung durch der Nutzung von Cloudflare</h3>
+Diese Website wird durch Servern von Cloudflare Inc., 101 Townsend St., San Francisco, California 94107, USA verteilt. Beachten Sie daher auch 
+Cloudflare, Inc (101 Townsend St, San Francisco, CA 94107, USA) <a href="https://www.cloudflare.com/de-de/gdpr/introduction/?utm_referrer=https://www.cloudflare.com/">Selbstverpflichtung von Cloudflare zur Einhaltung der DSGVO</a>.
+<br/>
+Cloudflare verfügt über eine Zertifizierung nach dem EU-US-Privacy-Shield. Der Privacy-Shield ist ein Übereinkommen zwischen der Europäischen Union (EU) und den USA, das die Einhaltung europäischer Datenschutzstandards in den USA gewährleisten soll. Siehe dazu die <a href="https://www.cloudflare.com/de-de/privacypolicy/">Privacy Policy von Cloudflare</a>.
 <br/>
 
