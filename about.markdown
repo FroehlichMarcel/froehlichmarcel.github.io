@@ -46,6 +46,7 @@ ______________________________
 <h1 id="datenschutz">DATENSCHUTZERKLÄRUNG</h1> 
 
 <h2>Allgemeiner Hinweis</h2>
+
 Ich, Marcel Fröhlich, nehme den Schutz persönlicher Daten sehr ernst und behandle personenbezogene Daten vertraulich entsprechend der gesetzlichen Vorschriften und dieser Datenschutzerklärung.
 
 Dieses private Blog verfolgt keine geschäftlichen Interessen.
@@ -64,32 +65,33 @@ Cloudlare setzt im Rahmen der Verschlüsselung ein funktionales 3rd-Party Cookie
 Zweck des Cookies ist die Erkennung maliziöser Besucher, d.h. ein Hilfsmittel zur Absicherung.
 
 <h2>Benennung der verantwortlichen Stelle</h2>
+
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Marcel Fröhlich <br/>
 Uhlandstr. 9/1 <br/>
 D-71364 Winnenden <br/> 
 Germany<br/><br/>
-marcel.frohlich at icloud.com <br/>
+marcel.frohlich at icloud.com
 
-<br/>
 <h2>Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde</h2>
+
 Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesbeauftragter für den Datenschutz und die Informationsfreiheit in Baden-Württemberg:
 <br/><br/>
 Landesbeauftragter für den Datenschutz und die Informationsfreiheit<br/>
 Königstraße 10 a<br/>
 70173 Stuttgart<br/>
  Im Internet: 
- <a href="https://www.service-bw.de/organisationseinheit/-/sbw-oe/Landesbeauftragter+fuer+den+Datenschutz-6014032-organisationseinheit-0 ">Landesbeauftrager für den Datenschutz und die Informationsfreiheit Baden-Württemberg </a><br/>
+ <a href="https://www.service-bw.de/organisationseinheit/-/sbw-oe/Landesbeauftragter+fuer+den+Datenschutz-6014032-organisationseinheit-0 ">Landesbeauftrager für den Datenschutz und die Informationsfreiheit Baden-Württemberg </a>
 
 <h2>SSL- bzw. TLS-Verschlüsselung</h2>
-Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung via Cloudflare. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der "https://" Adresszeile Ihres Browsers.<br/>
+Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung via Cloudflare. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der "https://" Adresszeile Ihres Browsers.
 
 <h2>Kontaktaufnahme</h2>
 Bei der Kontaktaufnahme (zum Beispiel per E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
 <br/>
 Eine weitergehende Übermittlung der Daten findet nicht statt bzw. nur dann, wenn Sie dieser ausdrücklich zugestimmt haben.
-<br/>
+
 <h2>Daten-Erhebung durch Dritte</h2>
 <h3>Daten-Erhebung durch die Nutzung von GitHub Pages</h3>
 Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Francisco, California 94107, USA gehostet. Beachten Sie daher auch die <a href="https://docs.github.com/en/github/site-policy/global-privacy-practices">GitHub Global Privacy Practices.</a> GitHub ist ein Unternehmen der Microsoft Corporation.
