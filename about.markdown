@@ -49,9 +49,11 @@ ______________________________
 Ich, Marcel Fröhlich, nehme den Schutz persönlicher Daten sehr ernst und behandle personenbezogene Daten vertraulich entsprechend der gesetzlichen Vorschriften und dieser Datenschutzerklärung.
 
 Dieses private Blog verfolgt keine geschäftlichen Interessen.
-Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten, OHNE Verwendung von Cookies genutzt.
+Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten.
 Im Rahmen dieses Blog werden von mir keine personenbezogene Daten erhoben oder gespeichert. 
 Die HTTP(S) Anfragen werden via Cloudflare CDN (siehe SSL- bzw. TLS-Verschlüsselung) von froehlichmarcel.github.io verarbeitet.
+Cloudlare setzt im Rahmen der Verschlüsselung ein funktionales 3rd-Party Cookie (__cfduid) mit einer Ablaufzeit von 30 Tagen. Das Cookie enthält keine Daten,
+Zweck des Cookies ist die Erkennung maliziöser Besucher, d.h. ein Hilfsmittel zur Absicherung.
 
 Durch die Nutzung von GitHub Pages ergibt sich ergibt sich effektiv eine Auftragsdatenverarbeitung auf Basis der <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">GitHub Terms of Service</a> und des <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
 Es erfolgt eine Verarbeitung von personenbezogenen technischen Daten (IP-Adresse) zum Zweck der sicheren und unveränderten Bereitstellung der Website blog.industrialdata.de (siehe Datenerhebung durch Dritte).
