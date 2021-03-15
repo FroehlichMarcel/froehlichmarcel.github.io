@@ -97,7 +97,7 @@ Diese Website wird auf Servern von Github Inc., 88 Colin P Kelly Jr St, San Fran
 Github verfügt über eine Zertifizierung nach dem EU-US-Privacy-Shield. Der Privacy-Shield ist ein Übereinkommen zwischen der Europäischen Union (EU) und den USA, das die Einhaltung europäischer Datenschutzstandards in den USA gewährleisten soll. Siehe dazu die Privacy Shield Compliance Erklärung von Github (erreichbar über den Github Global Privacy Practices Link).
 
 <h3>Daten-Erhebung durch der Nutzung von Cloudflare</h3>
-Diese Website wird durch Servern von Cloudflare Inc., 101 Townsend St., San Francisco, California 94107, USA verteilt. Beachten Sie daher auch 
+Diese Website wird durch Server von Cloudflare Inc., 101 Townsend St., San Francisco, California 94107, USA verteilt. Beachten Sie daher auch 
 Cloudflare, Inc (101 Townsend St, San Francisco, CA 94107, USA) <a href="https://www.cloudflare.com/de-de/gdpr/introduction/?utm_referrer=https://www.cloudflare.com/">Selbstverpflichtung von Cloudflare zur Einhaltung der DSGVO</a>.
 <br/>
 Cloudflare verfügt über eine Zertifizierung nach dem EU-US-Privacy-Shield. Der Privacy-Shield ist ein Übereinkommen zwischen der Europäischen Union (EU) und den USA, das die Einhaltung europäischer Datenschutzstandards in den USA gewährleisten soll. Siehe dazu die <a href="https://www.cloudflare.com/de-de/privacypolicy/">Privacy Policy von Cloudflare</a>.
