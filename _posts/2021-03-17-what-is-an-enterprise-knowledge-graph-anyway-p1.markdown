@@ -7,13 +7,13 @@ header:
   #overlay_filter: rgba(20, 55, 60, 0.5)
 date:   2021-03-17 22:00:00 +0100
 ---
-# What is an enterprise knowledge graph anyway?<br/>(Part I)
+
 
 In this post, I'll approach the question top down.
 I.e. not looking at what an enterprise knowledge graph is made of,
 but at its function for an organization.
 
-## First things first: What is enterprise data management?
+# First things first: What is enterprise data management?
 
 Let's start with a question that seems to be easier to answer: What is enterprise data management?
 Is this easy to answer?
@@ -25,7 +25,7 @@ Honestly, from my perspective this story, no matter how often told, leads people
 So let's start over and begin the journey anew with the other part of the term enterprise data management:
 the enterprise - as a large organization with a mission.
 
-## Organizations
+# Organizations
 
 Stating the obvious will help us to untangle the picture:
 Everything an organization does is ideally contributing to support the strategy set by the board. But the board doesn't know all the details of what needs to be done and even less how. The way it works is outlining the targets and delegation of those to sub-organizations that have a more detailed understanding, the know-how. They will break down their targets to an actionable program and delegate again further down.
@@ -36,13 +36,13 @@ As every person and organization has a limited capacity for detail this is exact
 So the reality is: there are multiple interconnected systems and subsystems (entangled in a multi-scale process).
 Each having their own point of view and their own agency (own capacity for decisions and actions) driven by their specific incentives and constrained by task assignments and internal controls.
 
-## Data
+# Data
 
 Data is the means to coordinate the different actors within this network of agents, it is the interfacing object between processes.
 But data is never _raw_. It is always the result of a process that operates with its own model and a set of classifications that implicitly (e.g. what is left out) and explicitly shapes the data it creates.
 Taking a broad perspective on what data can be - namely any recorded information that can be passed around, stored and copied - makes clear that this has always been the case. This was true even before there was any IT in organizations - usually just as paper-based process instead of a digital one.
 
-## Automation
+# Automation
 
 A new challenge when using data comes with automation. When you cut out the human receiver, data has to be 100% formalized.
 This is the only thing we think of today, when talking about data (the rest is now _content_ or _"unstructured" documents_).
@@ -53,7 +53,7 @@ This is the essence of enterprise data management:
 Making sure, that all data used across the whole organization is documented, aligned and follows some shared guidance. Depending on how this is done, there is often a lack of flexibility and adaptability as part of the price tag.
 In the best case data and automation almost invisible support the tasks that need to be done. In the worst case they become obstacles, that require extra care and massively increase the overall complexity of what needs to be handled to get things done.
 
-## Models
+# Models
 
 To achieve the best case (almost invisible automation), organizations need abstractions that perfectly fit to their model of themselves as an organization and its operations. Needless to say that whenever the situation changes, immediate adaption is crucial.
 This follows from the good regulator theorem which states that _every good regulator of a system must be a model of that system_.
@@ -65,7 +65,7 @@ When describing the organization we stated that control is distributed and every
 Attempts that ignored this aspect and tried to build an aligned detailed model to be used uniformly across the whole organization, were always a total failure.
 So this is the challenge: Many models in different granularity, that are STILL aligned.
 
-## Enterprise Knowledge Graphs
+# Enterprise Knowledge Graphs
 
 This is where knowledge graph technology and formalisms kick in. They provide the required capabilities and characteristics to do exactly that:
 Align many models in different granularity that can overlap and link those to actual data. A knowledge graph is not only providing machine readable data, like all other databases, but also machine and human readable models AS data. An enterprise knowledge graph is a virtually connected mesh of (sub) knowledge graphs.
