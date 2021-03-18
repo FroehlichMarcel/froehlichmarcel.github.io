@@ -68,7 +68,7 @@ So this is the challenge: Many models in different granularity, that are all at 
 # Enterprise Knowledge Graphs
 
 This is where knowledge graph technology and formalisms kick in. They provide the required capabilities and characteristics to do exactly that:
-Align many models in different granularity that can overlap and link those to actual data. A knowledge graph is not only providing machine readable data, like all other databases, but also machine and human readable models AS data. It can reference elements managed elsewhere, so that multiple knowledge graphs act like a very large interwoven data fabric<br/><br/>
+Align many models in different granularity that can overlap and link those to actual data. A knowledge graph is not only providing machine readable data, like all other databases, but also machine and human readable models AS data. It can reference elements managed elsewhere, so that multiple knowledge graphs act like a very large interwoven data fabric.<br/><br/>
 <b>An enterprise knowledge graph is a virtually connected mesh of (sub) knowledge graphs - it is decentralized infrastructure but a uniform layer across
 the organisation. It covers all critical data concepts, provides globally unique identifiers, defined ownership of data, machine-readable models and is typically combined with a uniform lookup mechanism.</b>
 
