@@ -13,10 +13,10 @@ In this post, I'll approach the question top down.
 I.e. not looking at what an enterprise knowledge graph is made of,
 but at its function for an organization.
 
-# First things first: What is enterprise data management?
+# First things first: Data?
 
 Let's start with a question that seems to be easier to answer: What is enterprise data management?
-Is this easy to answer?<br/>
+<br/>
 Data - the conventional marketing story for what happens with data goes like this:
 We collect and create raw data, process it and put it in context to get information and finally do some analytics to gain knowledge (the DIKW pyramid, with W for wisdom).
 And we talk about enterprise data, because there is so much, it is hard to reconcile and needs protection.<br/>
@@ -63,14 +63,14 @@ Now here is a critical problem, when we take our previous description serious:
 When describing the organization we stated that control is distributed and every agent has their own point of view of its environment and subsystems which is typically a coarser model than the models which are actually used to regulate these other parts. BI minded people may think _Ah! Data aggregation._, but that is only part of the answer. The amount of details lost by translating from one model to the other can be more substantial and subtile.
 
 Attempts that ignored this aspect and tried to build an aligned detailed model to be used uniformly across the whole organization, were always a total failure.
-So this is the challenge: Many models in different granularity, that are STILL aligned.
+So this is the challenge: Many models in different granularity, that are all at once aligned with the data.
 
 # Enterprise Knowledge Graphs
 
 This is where knowledge graph technology and formalisms kick in. They provide the required capabilities and characteristics to do exactly that:
-Align many models in different granularity that can overlap and link those to actual data. A knowledge graph is not only providing machine readable data, like all other databases, but also machine and human readable models AS data. <br/>
-An enterprise knowledge graph is a virtually connected mesh of (sub) knowledge graphs - it is decentralized infrastructure but a uniform logical layer across
-the organisation. It covers all critical data concepts, provides globally unique identifiers, ownership and models and is typically combined with a uniform lookup mechanism.
+Align many models in different granularity that can overlap and link those to actual data. A knowledge graph is not only providing machine readable data, like all other databases, but also machine and human readable models AS data. It can reference elements managed elsewhere, so that multiple knowledge graphs act like a very large interwoven data fabric<br/><br/>
+<b>An enterprise knowledge graph is a virtually connected mesh of (sub) knowledge graphs - it is decentralized infrastructure but a uniform layer across
+the organisation. It covers all critical data concepts, provides globally unique identifiers, defined ownership of data, machine-readable models and is typically combined with a uniform lookup mechanism.</b>
 
 The promise of enterprise knowledge graphs is slashing the complexity of data and automation by at least an order of magnitude. This is achieved by avoiding model mismatches, providing alignment between different lenses and by avoiding data copies that start a life on their own.
 
