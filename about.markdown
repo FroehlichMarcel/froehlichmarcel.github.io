@@ -50,7 +50,7 @@ ______________________________
 Ich, Marcel Fröhlich, nehme den Schutz persönlicher Daten sehr ernst und behandle personenbezogene Daten vertraulich entsprechend der gesetzlichen Vorschriften und dieser Datenschutzerklärung.
 
 Dieses private Blog verfolgt keine geschäftlichen Interessen.
-Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten.
+Als Hosting-Platform wird der Dienst Github Pages zum Hosting statischer HTML Seiten verwendet.
 
 Durch die Nutzung des Dienstens GitHub Pages ergibt sich ergibt sich effektiv eine Auftragsdatenverarbeitung auf Basis der <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">GitHub Terms of Service</a> und des <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement</a>.
 
