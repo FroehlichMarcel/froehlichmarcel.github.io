@@ -61,7 +61,7 @@ Die Rechtsgrundlage dieser Verarbeitungen entsprechend DSGVO ist mein berechtigt
 
 Im Rahmen dieses Blog werden von mir keine personenbezogene Daten erhoben oder gespeichert. 
 Die HTTP(S) Anfragen werden via Cloudflare CDN (siehe SSL- bzw. TLS-Verschlüsselung) von froehlichmarcel.github.io verarbeitet.
-Cloudlare setzt im Rahmen der Verschlüsselung ein funktionales 3rd-Party Cookie (__cfduid) mit einer Ablaufzeit von 30 Tagen. Das Cookie enthält keine Daten,
+Cloudflare setzt im Rahmen der Verschlüsselung ein funktionales 3rd-Party Cookie (__cfduid) mit einer Ablaufzeit von 30 Tagen. Das Cookie enthält keine Daten,
 Zweck des Cookies ist die Erkennung maliziöser Besucher, d.h. ein Hilfsmittel zur Absicherung.
 
 <h2>Benennung der verantwortlichen Stelle</h2>
