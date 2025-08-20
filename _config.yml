@@ -33,9 +33,6 @@ repository: FroehlichMarcel/FroehlichMarcel.github.io
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/FroehlichMarcel"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/FroehlichMarcel"
