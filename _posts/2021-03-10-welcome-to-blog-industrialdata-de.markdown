@@ -19,5 +19,5 @@ the current state of the art of building system landscapes and handling data doe
 <br/>Especially during the last 10 years I took a deep dive in everything (linked) data, modelling, the application of related technologies and the required governance. Over time I figured out how everything fit togther to enable a better approach in large organizations. I am running the projects and consulting business at eccenca.com, which helps me refining this, every day. To improve the state of the art I am actively contributing to the Enterprise Knowledge Graph Foundation.<br/>
 <br/>By training I am a computer scientist and an MBA. Besides, I am traveling the roads of other disciplines, like maths, physics, cognitive science, complex systems, linguistics and philosophy for decades.
 
-Feedback via Twitter is preferred. Thank you for your interest, <br/>
+Feedback via LinkedIn is preferred. Thank you for your interest, <br/>
 Marcel
